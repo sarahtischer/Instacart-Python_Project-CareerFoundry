@@ -16,7 +16,8 @@ This project involves conducting an initial data and exploratory analysis of Ins
 
 ## Folders
 * 01 Project Management: Project brief.
-* 02 Data; with subfolders Original_data and Prepared_data: Original dataframes and dataframes after cleaning and preparation for analysis (note: data files are not uploaded to GitHub due to size).
+* 02 Data; with subfolders Original_data and Prepared_data: \
+  Original dataframes and dataframes after cleaning and preparation for analysis (note: data files are not uploaded to GitHub due to size).
 * 03 Scripts: Jupyter notebooks containing Python scripts for analysis.
 * 04 Analysis: Visualizations used to develop and explain insights.
 * 05 Sent_to_client: The final report presented in Excel.
