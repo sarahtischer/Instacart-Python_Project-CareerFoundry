@@ -15,6 +15,16 @@ This project involves conducting an initial data and exploratory analysis of Ins
 * Visualizing data with Python
 * Coding etiquette, Excel reporting, and final analysis
 
+## Data Sets
+The following data sets from "The Instacart Online Grocery Shopping Dataset 2017" were accessed via [Kaggle](www.instacart.com/datasets/grocery-shopping-2017):
+* orders
+* orders_products_prior
+* products
+* departments
+
+Note: Data on customers and the 'prices' column in the 'products' dataset were fabricated for this analysis.
+* customers
+
 ## Folders
 * 01 Project Management: Project brief
 * 02 Data: Original and prepared dataframes (note: data files are not uploaded to GitHub due to their size)
