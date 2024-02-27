@@ -1,5 +1,7 @@
 # Instacart Grocery Basket Analysis
 
+![Instacart logo](Instacart_logo.png)
+
 ## Overview
 This project involves conducting an initial data and exploratory analysis of Instacart's sales patterns to gain insights and suggest strategies for better segmentation. The goal is to help Instacart target different customer profiles with appropriate marketing campaigns and products. Key questions addressed in this analysis include determining the busiest days and hours, identifying high spending times, simplifying price point groupings, assessing popular product categories, and understanding customer behavior based on loyalty, region, demographics, and shopping habits.
 
@@ -15,12 +17,11 @@ This project involves conducting an initial data and exploratory analysis of Ins
 * Coding etiquette, Excel reporting, and final analysis
 
 ## Folders
-* 01 Project Management: Project brief.
-* 02 Data; with subfolders Original_data and Prepared_data: \
-  Original dataframes and dataframes after cleaning and preparation for analysis (note: data files are not uploaded to GitHub due to size).
-* 03 Scripts: Jupyter notebooks containing Python scripts for analysis.
-* 04 Analysis: Visualizations used to develop and explain insights.
-* 05 Sent_to_client: The final report presented in Excel.
+* 01 Project Management: Project brief
+* 02 Data: Original and prepared dataframes (note: data files are not uploaded to GitHub due to their size)
+* 03 Scripts: Jupyter notebooks containing Python scripts for analysis
+* 04 Analysis: Visualizations used to develop and explain insights
+* 05 Sent_to_client: The final report presented in Excel
 
 ## Analysis Tools
 * Uses Jupyter notebooks and the following Python libraries for analysis:
